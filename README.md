@@ -41,10 +41,32 @@ and also you need `vs code`.
 ![image](https://github.com/Vivek02Sharma/face-recognition-using-python/assets/112774647/2b13c100-4aa6-4ab2-9316-fc78c9b3df9e)
 
 **4.Clone the Repository**
+
+Paste the below git clone link in terminal and `ENTER`.
 ```bash
-git clone 
+git clone https://github.com/Vivek02Sharma/face-recognition-using-python.git
 ```
 
+![image](https://github.com/Vivek02Sharma/face-recognition-using-python/assets/112774647/2c8725ea-2145-4a21-b314-c5ad3e9f1f62)
+
+Now you can find out git clone is done. 
+
+**5.Put your image in `src`**
+
+There is a `src` folder in `face-recognition-using-python` folder. In `src` folder put your image.
+
+**6.Run the python script in terminal**
+
+```bash
+python face-recognition-using-python/my_face_recognition.py
+```
+
+![image](https://github.com/Vivek02Sharma/face-recognition-using-python/assets/112774647/8a7764d9-4d83-42d5-a472-6733844122f6)
+
+
+**7.Quit the application**
+
+Press `q` or `Q` key to exit the code.
 
 
 
