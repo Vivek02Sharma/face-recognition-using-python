@@ -3,7 +3,7 @@ import cv2
 import os
 import numpy as np
 
-path = 'src'
+path = 'face-recognition-using-python/src'
 images = []
 names = []
 imglist = os.listdir(path)
